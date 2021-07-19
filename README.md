@@ -6,8 +6,9 @@ The VBA code, also known as a a subroutine, has been designed for my client Stev
 As is clearly highlighted using the programmed Conidtional Formatting, 2017 was a year of strong performance for almost all the stocks analyzed.  In fact, only one company, TerraForm Power Inc (ticker symbol "TERP" in the Excel file, had a negative return for the year. 
 ### Exhibit 1: All Stocks Analysis (Refactored) Output for 2017
 ![VBA_Challenge_2017.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2017.PNG)
-
-
+On the other hand, 2018 was a disappointing year for stock performance, at least for the 12 tickers I analyzed for Steve. While 2 of 12 stocks provided very strong (80%+ returns), the other 10 stocks all had negative returns for the year.
+### Exhibit 2: All Stocks Analysis (Refactored) Output for 2018
+![VBA_Challenge_2018.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
 
