@@ -24,7 +24,7 @@ Similarily, compare the following Exhibit (4) to Exhibit 2. Again, note that the
 
 ### *As stated in the introduction, please refer to the VBA code in both files by using the "Developer" Excel Add-In on the Ribbon.  While both codes produce the same output, the refactored version is much neater and requires fewer lines of code.
 
-## Advantages & Disadvantages of Refactoring Code
+## Advantages & Disadvantages of Refactoring Code in General
 There are many reasons why a programmer should at least consider refactoring their code, though there are a few notable downsides.
 Advantages:
 -Eliminates redundancies that may have been initially programmed.
@@ -34,6 +34,12 @@ Advantages:
 
 Disadvantages:
 -Takes more time and effort, which means additional expense and opportunity cost to a business.
--Creates 
+-Creates the chance to accidentally write an error into the syntax, which really defeats the point of refactoring (making the code better).
 
-*I would have altered the Conditional formatting to be the red, yellow, green color-scale, rather than the binary red & green, as this makes it hard to quickly differentiate between moderately successful stocks and highly successful ones: in 2017's analyssis both "RUN" and "DQ" had positive returns for the year, and were highlighted green by the Conditional Formatting. However, RUN returned 5.5%, whereas DQ returned 199.4%, clearly making the latter the better investment. The code should be altered to reflect the difference in performance more clearly, even if both are positve.
+## Advantages & Disadvantages of Refactoring this VBA Script
+The advantages of refactoring this VBA script are largely the same as the "in general" section above: run-time is improved, the code is simplified, and it is neater to read.
+
+The main disadvantage to the refactored version is that it does not have all the comments I originally built into my un-factored code, which helped me understand the navigation of the program and what individual sections of code were doing.  As this is not an overly long or complex build, comprehension does not suffer too much, but if the code had been longer or more complex, losing those initial build notes would make the code harder to understand or repurpose in the future to use in another program.
+
+### Additional Refactoring Suggestion
+*I would have altered the Conditional formatting to be the red, yellow, green color-scale, rather than the binary red & green, as this makes it hard for me as the programmer and tester, and Steve as the end-user to quickly differentiate between moderately successful stocks and highly successful ones: in 2017's analyssis both "RUN" and "DQ" had positive returns for the year, and were highlighted green by the Conditional Formatting. However, RUN returned 5.5%, whereas DQ returned 199.4%, clearly making the latter the better investment. The code should be altered to reflect the difference in performance more clearly, even if both are positve, negative, etc.
