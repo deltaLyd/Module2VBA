@@ -22,7 +22,7 @@ Similarily, compare the following Exhibit (4) to Exhibit 2. Again, note that the
 
 ![VBA_Challenge_2018 - Initial.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2018%20-%20Initial.PNG)
 
-
+### As stated in the introduction, please refer to the Please refer to the VBA code in both files by using the "Developer" Excel Add-In on the Ribbon.
 
 
 
