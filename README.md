@@ -22,8 +22,18 @@ Similarily, compare the following Exhibit (4) to Exhibit 2. Again, note that the
 
 ![VBA_Challenge_2018 - Initial.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2018%20-%20Initial.PNG)
 
-### *As stated in the introduction, please refer to the VBA code in both files by using the "Developer" Excel Add-In on the Ribbon.
+### *As stated in the introduction, please refer to the VBA code in both files by using the "Developer" Excel Add-In on the Ribbon.  While both codes produce the same output, the refactored version is much neater and requires fewer lines of code.
 
+## Advantages & Disadvantages of Refactoring Code
+There are many reasons why a programmer should at least consider refactoring their code, though there are a few notable downsides.
+Advantages:
+-Eliminates redundancies that may have been initially programmed.
+-Opportunity to clean up code and comments to make the program easier to read and audit.
+-Enables programmer to simplify long or complex sections of code into shorter, more manageable pieces of code.
+-Improves performance of the code (as evidenced by the improved execution time in this Challenge).
 
+Disadvantages:
+-Takes more time and effort, which means additional expense and opportunity cost to a business.
+-Creates 
 
 *I would have altered the Conditional formatting to be the red, yellow, green color-scale, rather than the binary red & green, as this makes it hard to quickly differentiate between moderately successful stocks and highly successful ones: in 2017's analyssis both "RUN" and "DQ" had positive returns for the year, and were highlighted green by the Conditional Formatting. However, RUN returned 5.5%, whereas DQ returned 199.4%, clearly making the latter the better investment. The code should be altered to reflect the difference in performance more clearly, even if both are positve.
