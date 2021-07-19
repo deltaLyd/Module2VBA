@@ -14,7 +14,7 @@ On the other hand, 2018 was a disappointing year for stock performance, at least
 
 ## Comparison of Original Code to Refactored Code
 While the code for both subroutines produced the same outcome, the refactored code performs the same tasks at a greater rate of speed, and is therefore a better end-product to deliver to Steve, so that he does not have to sit around waiting for the original code to spin through a very large dataset he is trying to analyze. 
-Compare the following Exhibit (3) to Exhibit 1. Note that the output is the same, but the time to completion is much faster in Exhibit 1, which ran using refactored code.
+Compare the following Exhibit (3) to Exhibit 1. Note that the output is the same, but the time to completion is much faster in Exhibit 1 at ~0.09 seconds, which ran using refactored code, versus the ~0.72 seconds in Exhibit 3, which ran using the original code.
 ### Exhibit 3: All Stocks Analysis (Original) Output for 2017
 ![VBA_Challenge_2017 - Initial.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2017%20-%20Initial.PNG)
 
