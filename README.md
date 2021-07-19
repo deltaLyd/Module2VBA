@@ -3,7 +3,8 @@ This file contains a Microsoft Excel Macro-Enabled Workbook, with an associated 
 The VBA code, also known as a a subroutine, has been designed for my client Steve, so that he can quickly analyze stock (equity) information, specifically Total Daily (Trading) Volume and the Return % for the given year--identified by Ticker symbol--for a variety of stocks, in order to make the best investment choice(s) for his parents.  
   The Excel file, located here: [VBA_Challenge.xlsm ](https://github.com/deltaLyd/Module2VBA/blob/main/VBA_Challenge.xlsm) contains stock data for 12 companies for years 2017 and 2018.  The original code for this analysis has been refactored, allowing it to run more quickly and to be capable of execution on a larger potential dataset.
 ##Analysis of Returns: 2017 vs 2018
-As is clearly highlighted using the programmed Conidtional Formatting, 2017 was a year of strong performance for almost all the stocks analyzed.  In fact, only one company, TerraForm Power Inc (ticker symbol "TERP" in the Excel file, had a negative return for the year. ![VBA_Challenge_2017.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2017.PNG)
+As is clearly highlighted using the programmed Conidtional Formatting, 2017 was a year of strong performance for almost all the stocks analyzed.  In fact, only one company, TerraForm Power Inc (ticker symbol "TERP" in the Excel file, had a negative return for the year. 
+![VBA_Challenge_2017.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2017.PNG)
 
 
 
