@@ -4,8 +4,10 @@ The VBA code, also known as a a subroutine, has been designed for my client Stev
   The Excel file, located here: [VBA_Challenge.xlsm ](https://github.com/deltaLyd/Module2VBA/blob/main/VBA_Challenge.xlsm) contains stock data for 12 companies for years 2017 and 2018.  The original code for this analysis has been refactored, allowing it to run more quickly and to be capable of execution on a larger potential dataset.
 ##Analysis of Returns: 2017 vs 2018
 As is clearly highlighted using the programmed Conidtional Formatting, 2017 was a year of strong performance for almost all the stocks analyzed.  In fact, only one company, TerraForm Power Inc (ticker symbol "TERP" in the Excel file, had a negative return for the year. 
+
 ##Exbibit 1: 2017 Ticker Subroutine Output
-![VBA_Challenge_2017.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2017.PNG)
+
+[VBA_Challenge_2017.PNG](https://github.com/deltaLyd/Module2VBA/blob/main/Resources/VBA_Challenge_2017.PNG)
 
 
 
